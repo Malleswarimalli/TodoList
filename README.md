@@ -14,7 +14,7 @@ This is a simple **To-Do List Application** implemented in Java, allowing users 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todo-list-java.git
+   git clone [https://github.com/<your-username>/todo-list-java.git](https://github.com/Malleswarimalli/TodoList/blob/main/Todolist.java)
    ```
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse) or use a terminal.
 3. Compile and run the `todolist.java` file:
